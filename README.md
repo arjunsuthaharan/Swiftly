@@ -1,4 +1,4 @@
-## Swiftly :dove:
+## [Swiftly](https://source.sheridancollege.ca/fast_sw_mobile_computing_capstones/9/) :dove:
 *An iPad based app which aims to teach students about Swift and iOS development.*
 
 Swiftly is an easy-to-use iPadOS based application that was developed from September 2021 to December 2022 as part of my fourth year capstone project.
